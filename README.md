@@ -12,6 +12,7 @@
 
 ### Tools Installed
 - Python
+- VS Code
 - Jupyter Notebook
 
 ### Files Included
